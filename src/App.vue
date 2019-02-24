@@ -38,7 +38,7 @@
                 <v-flex xs12 md4>
                   <v-card >
                      <v-img
-                       src="https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                       src="https://images.pexels.com/photos/1120347/pexels-photo-1120347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                        aspect-ratio="2"
                      ></v-img>
                    <v-card-title primary-title class="justify-center">
@@ -55,7 +55,7 @@
                 <v-flex xs12 md4>
                   <v-card>
                      <v-img
-                       src="https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                       src="https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                        aspect-ratio="2"
                      ></v-img>
                    <v-card-title primary-title class="justify-center">
