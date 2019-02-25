@@ -1,2 +1,2 @@
 # proxy to subsites
-/docs/*  https://frequent-wallet-gendocs-7feb03.netlify.com    200!
+/docs/*  https://gen-docs-3057d6.netlify.com/:splat     200!
