@@ -47,7 +47,7 @@
                      </div>
                    </v-card-title>
                    <v-card-actions class="justify-center">
-                     <v-btn flat color="orange" href="https://frequentwallet.com/docs">Study</v-btn>
+                     <v-btn flat color="orange" href="https://www.frequentwallet.com/docs">Study</v-btn>
                    </v-card-actions>
                  </v-card>
                 </v-flex>
