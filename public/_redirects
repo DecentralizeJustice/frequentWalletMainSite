@@ -1,3 +1,2 @@
 # proxy to subsites
 /docs/*  https://frequent-wallet-gendocs-7feb03.netlify.com    200!
-/*    /index.html   200
